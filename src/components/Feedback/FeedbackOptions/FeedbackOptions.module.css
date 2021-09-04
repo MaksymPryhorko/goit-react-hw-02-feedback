@@ -1,0 +1,11 @@
+.buttonList {
+  display: flex;
+}
+
+.buttonItem {
+  margin-left: 10px;
+}
+
+.button {
+  padding: 5px 10px;
+}
